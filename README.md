@@ -2,17 +2,17 @@
 ###  Hi there, I'm Bárbara :sunny::zap:
 ##### Pronouns: she/her :purple_heart: 
 ---
-I'm a creative person from Chile and proudly graduated from Laboratoria. I used to be a photographer, then i decided to take the next step :computer:
+I'm a creative person from Chile and proudly graduated from Laboratoria. I used to be a photographer, then I decided to take the next step :computer:
 
 - I’m currently searching job as Front-end developer 🔭 
 - I’m currently learning React and Bootstrap  🌱
 - My biggest goal is to become into an UI Developer :gem:
 - Please, contact me on [LinkedIn](https://www.linkedin.com/in/barbarasagredoc/)  or mail: barpaz.sc@gmail.com :speech_balloon:
- 
-I'd like to work in an inclusive company where I can learn and develop my potential, drink coffee and share music with my co-workers :headphones: 
+- I'd like to work in an inclusive company where I can learn and develop my potential, drink coffee and share music with my co-workers :headphones: 
+
 ---
 
- ## Languages • Frameworks • Tools • Abilities 
+ ## :zap: Languages • Frameworks • Tools • Abilities :zap:
 
 <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/BOOTSTRAP.png"></code>
 <code><img title="Figma" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/FIGMA.png"></code>
