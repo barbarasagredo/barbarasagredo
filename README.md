@@ -28,4 +28,4 @@ I'm a creative person from Chile and proudly graduated from Laboratoria. I used 
 <code><img title="Linkedin" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/LINKEDIN.png"></code>
 
 ---
- Would you like to visit my analog photography [instagram](https://www.instagram.com/azabachecorazon/) profile?  <code><img title="Instagram" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/INSTAGRAM.png"></code>
+ 
