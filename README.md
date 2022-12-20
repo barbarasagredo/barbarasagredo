@@ -1,14 +1,18 @@
-![Mulan](https://i.imgur.com/KIAZfrw.png)
+![Background](https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/BACKGROUND.jpg)
 ###  Hi there, I'm Bárbara :sunny::zap:
 ##### Pronouns: she/her :purple_heart: 
 ---
-I'm a creative person from Chile and proudly graduated from Laboratoria. I used to be a photographer, then I decided to take the next step :computer:
+Proudly graduated from Laboratoria, currently living in Chile. I consider myself a creative and brave person. I moved to New Zealand this year, even though I had to come back I was able to prove myself :sparkles: I can speak english:sparkles: I used to be a photographer, then I decided to take the next step :computer:
 
 - I’m currently searching job as Front-end developer 🔭 
-- I’m currently learning React and Bootstrap  🌱
-- My biggest goal is to become into an UI Developer :gem:
-- Please, contact me on [LinkedIn](https://www.linkedin.com/in/barbarasagredoc/)  or mail: barpaz.sc@gmail.com :speech_balloon:
+
+- I’m currently learning Flutter 🌱
+
+- My biggest goal is to become into a mobile applications dev :gem:
+
 - I'd like to work in an inclusive company where I can learn and develop my potential, drink coffee and share music with my co-workers :headphones: 
+
+- Please, contact me on [LinkedIn](https://www.linkedin.com/in/barbarasagredoc/)  or mail: barpaz.sc@gmail.com :speech_balloon:
 
 ---
 
@@ -26,6 +30,4 @@ I'm a creative person from Chile and proudly graduated from Laboratoria. I used 
 <code><img title="VisualStudioCode" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/VISUALSTUDIOCODE.png"></code>
 <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/CSS.png"></code>
 <code><img title="Linkedin" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/LINKEDIN.png"></code>
-
----
- 
+<code><img title="Flutter" height="25" src="https://raw.githubusercontent.com/barbarasagredo/barbarasagredo/main/IMAGES/FLUTTER.png"></code>
